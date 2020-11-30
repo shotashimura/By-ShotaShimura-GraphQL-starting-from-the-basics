@@ -1,5 +1,6 @@
-# By-ShotaShimura-GraphQL-starting-from-the-basics
-### 志村翔太 著 「基礎からはじめるGraphQL」サンプルコード
+# 志村翔太 著 「基礎からはじめるGraphQL」サンプルコード
+
+![41jAY8ezOVL](https://user-images.githubusercontent.com/49935946/100675276-ffdb8c00-33a9-11eb-830d-790d1605a5f2.jpg)
 
 本書ではGraohQLの基礎文法や概念を学び、実際にGraohQLを利用したアプリケーションの完成を目指していきます。
 
